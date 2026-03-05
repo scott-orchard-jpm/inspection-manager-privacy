@@ -1,6 +1,6 @@
 # Privacy Policy
 **Inspection Manager**  
-Effective Date: [Month Day, Year]
+Effective Date: March 4th, 2026
 
 Inspection Manager respects your privacy.
 
@@ -35,4 +35,4 @@ Your data remains on your device until you delete it (for example, by deleting i
 This app is not directed to children under 13.
 
 ## Contact
-If you have privacy questions, contact: [your-support-email@example.com]
+If you have privacy questions, contact: inspectionmanager.support@gmail.com
